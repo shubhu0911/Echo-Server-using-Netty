@@ -24,6 +24,7 @@ You can run multiple instances of the client to test concurrent connections.
 Open EchoServer.java.
 Run the main method.
 Enter the port number when prompted.
+
 2. Run the Client:
 
 Open EchoClient.java.
